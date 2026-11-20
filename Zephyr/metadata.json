@@ -1,0 +1,6 @@
+{
+  "name": "Zephyr",
+  "description": "Luxury business tycoon and portfolio simulation inspired by minimalist editorial aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
